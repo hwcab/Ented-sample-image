@@ -1,6 +1,13 @@
 # エンジニア向けSNS「Ented」の画面サンプル(開発中)
 - いくつかの画面をサンプルとして抜粋しています
 ## PC版
+
+### ログイン画面
+<img src="image/pc/login.png" width="80%" style="margin-bottom: 50px">
+
+### 新規登録画面
+<img src="image/pc/register.png" width="80%" style="margin-bottom: 50px">
+
 ### ホーム画面
 <img src="image/pc/home.png" width="80%" style="margin-bottom: 50px">
 
@@ -20,6 +27,12 @@
 <img src="image/pc/profile_edit.png" width="80%" style="margin-bottom: 50px">
 
 ## SP版
+### ログイン画面
+<img src="image/sp/login.png" width="30%" style="margin-bottom: 50px">
+
+### 新規登録画面
+<img src="image/sp/register.png" width="30%" style="margin-bottom: 50px">
+
 ### ホーム画面
 <img src="image/sp/home.png" width="30%" style="margin-bottom: 50px">
 
